@@ -1,9 +1,9 @@
 # project-1---dynamic-vector
 
-My submission for CPSC 131, Section 07, Lab Week 3
+# Properties
 
-# My Information
+* Uses dynamic memory allocation to mirror the properties of a vector
 
-* Name: Alex Bui
-* CWID: 885680090
-* Email: buia4@csu.fullerton.edu
+* Able to resize the capacity of the vector dynamically
+
+* Keeps track of the current size and capacity of the vector 
